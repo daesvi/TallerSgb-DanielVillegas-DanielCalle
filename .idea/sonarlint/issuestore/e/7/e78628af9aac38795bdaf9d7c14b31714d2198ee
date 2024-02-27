@@ -1,0 +1,17 @@
+
+h
+java:S1192B"KDefine a constant instead of duplicating this literal "
+El libro " 3 times.(ÊÚŸü8å ¹ßÞ1
+K
+java:S1066N"/Merge this if statement with the enclosing one.(€ûÁX8š£¸ßÞ1
+L	java:S106$"+Replace this use of System.out by a logger.(ßÓ³˜úÿÿÿÿ8Æ£¸ßÞ1
+I
+java:S1125+"'Remove the unnecessary boolean literal.(÷¶¼þýÿÿÿÿ8Æ£¸ßÞ1
+F	java:S106,"+Replace this use of System.out by a logger.(‰Î‘78Ç£¸ßÞ1
+I
+java:S11250"'Remove the unnecessary boolean literal.(ñíÖ³úÿÿÿÿ8È£¸ßÞ1
+L	java:S1061"+Replace this use of System.out by a logger.(ÿª×…ûÿÿÿÿ8È£¸ßÞ1
+L	java:S1069"+Replace this use of System.out by a logger.(’öî˜úÿÿÿÿ8É£¸ßÞ1
+G	java:S106B"+Replace this use of System.out by a logger.(ÊÚŸü8Ë£¸ßÞ1
+L	java:S106D"+Replace this use of System.out by a logger.(Žœ„£ûÿÿÿÿ8Ë£¸ßÞ1
+L	java:S106P"+Replace this use of System.out by a logger.(ÙÓî¹üÿÿÿÿ8Í£¸ßÞ1
